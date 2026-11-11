@@ -20,20 +20,14 @@ https://hls-01-regions.emgsound.ru/15_msk/112/playlist.m3u8
 https://live1.zharafm.ru/internet
 #EXTINF:-1 tvg-id="novoe" tvg-name="Новое радио Москва 98.4 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/novoe.png",Новое радио Москва 98.4 FM
 https://hls.newradio.ru/novoeradio-msk/112/playlist.m3u8
-#EXTINF:-1 tvg-id="pervoe-sportivnoe" tvg-name="Первое Спортивное радио Москва 94.4 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/pervoe-sportivnoe.png",Первое Спортивное радио Москва 94.4 FM
-https://1sportfm.ru/player.htm
 #EXTINF:-1 tvg-id="radio-7" tvg-name="Радио 7 на семи холмах Москва 104.7 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/radio-7.png",Радио 7 на семи холмах Москва 104.7 FM
 https://hls-01-regions.emgsound.ru/13_msk/112/playlist.m3u8
 #EXTINF:-1 tvg-id="vesti-fm" tvg-name="Радио Вести FM Москва 97.6 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/vesti-fm.png",Радио Вести FM Москва 97.6 FM
 https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1 tvg-id="vostok-fm" tvg-name="Радио Восток FM Москва 94.0 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/vostok-fm.png",Радио Восток FM Москва 94.0 FM
-https://vostok.fm/player.htm
 #EXTINF:-1 tvg-id="govorit-moskva" tvg-name="Радио Говорит Москва Москва 94.8 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/govorit-moskva.jpg",Радио Говорит Москва Москва 94.8 FM
 https://media.govoritmoskva.ru/radio/rufm.mp3
 #EXTINF:-1 tvg-id="radio-gordost" tvg-name="Радио Гордость Москва 105.0 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/radio-gordost.webp",Радио Гордость Москва 105.0 FM
 https://rgordost.hostingradio.ru/rgordost128.aacp
-#EXTINF:-1 tvg-id="dacha" tvg-name="Радио Дача Москва 92.4 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/dacha.png",Радио Дача Москва 92.4 FM
-https://www.radiodacha.ru/player.htm
 #EXTINF:-1 tvg-id="evropa-plyus" tvg-name="Радио Европа Плюс Москва 106.2 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/evropa-plyus.png",Радио Европа Плюс Москва 106.2 FM
 https://hls-01-regions.emgsound.ru/11_msk/112/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Радио Звезда Москва 95.6 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/zvezda.jpg",Радио Звезда Москва 95.6 FM
@@ -72,12 +66,6 @@ https://hls-01-regions.emgsound.ru/12_msk/112/playlist.m3u8
 https://hls-01-gpm.hostingradio.ru/romantika495/playlist.m3u8
 #EXTINF:-1 tvg-id="rossii" tvg-name="Радио России Москва 66.44 УКВ" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/rossii.png",Радио России Москва 66.44 УКВ
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF:-1 tvg-id="russkij-xit" tvg-name="Радио Русский Хит Москва 99.6 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/russkij-xit.png",Радио Русский Хит Москва 99.6 FM
-http://www.ruhit.fm/player.htm
-#EXTINF:-1 tvg-id="serebryanyij-dozhd" tvg-name="Радио Серебряный дождь Москва 100.1 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/serebryanyij-dozhd.jpg",Радио Серебряный дождь Москва 100.1 FM
-https://www.silver.ru/
-#EXTINF:-1 tvg-id="taksi-fm" tvg-name="Радио Такси FM Москва 96.4 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/taksi-fm.png",Радио Такси FM Москва 96.4 FM
-http://www.taxifm.ru/player.htm
 #EXTINF:-1 tvg-id="xit-fm" tvg-name="Радио Хит FM Москва 107.4 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/xit-fm.png",Радио Хит FM Москва 107.4 FM
 https://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tvg-id="shanson" tvg-name="Радио Шансон Москва 103.0 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/shanson.png",Радио Шансон Москва 103.0 FM
@@ -98,8 +86,6 @@ https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
 https://nashe1.hostingradio.ru/jazz-256
 #EXTINF:-1 tvg-id="like-fm" tvg-name="Радио Like FM Москва 87.9 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/like-fm.png",Радио Like FM Москва 87.9 FM
 https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8
-#EXTINF:-1 tvg-id="love" tvg-name="Радио Love Москва 106.6 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/love.png",Радио Love Москва 106.6 FM
-https://www.loveradio.ru/
 #EXTINF:-1 tvg-id="maximum" tvg-name="Радио Maximum Москва 103.7 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/maximum.jpg",Радио Maximum Москва 103.7 FM
 https://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 tvg-id="relax-fm" tvg-name="Радио Relax FM Москва 90.8 FM" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/relax-fm.png",Радио Relax FM Москва 90.8 FM
