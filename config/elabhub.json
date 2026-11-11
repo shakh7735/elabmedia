@@ -1,0 +1,12 @@
+{
+  "youtube": {
+    "resolvers": [
+      "newpipe",
+      "piped"
+    ],
+    "piped": [
+      "https://api.piped.private.coffee"
+    ],
+    "region": "RU"
+  }
+}
