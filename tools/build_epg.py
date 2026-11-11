@@ -1,8 +1,5 @@
 """Свой гид программы передач: только каналы нашего плейлиста, из нескольких источников.
 
-Каналам-сериалам без опубликованной сетки (таблица loops) программа строится сама: один и тот же
-сериал на всё окно.
-
 Основной источник (epg.one) берётся по tvg-id плейлиста. Каналу, у которого в нём программы
 нет или она кончилась, программа подставляется из запасного источника по явной таблице
 epg/sources.json — не угадыванием по названию: одно имя носят разные каналы (H2 в гидах — это
@@ -131,19 +128,6 @@ def borrow_descs(programmes, donors):
     return [(s, e, t, d or descs.get(title_key(t), "")) for s, e, t, d in programmes]
 
 
-def loop_programmes(entry):
-    """Канал, который круглосуточно показывает один сериал, а сетки не публикует (цифровые
-    каналы НТВ): одна и та же передача блоками по 6 часов на всё окно гида — чтобы в
-    приложении было видно, что идёт, а не «программы нет»."""
-    step = dt.timedelta(hours=6)
-    t = BACK.replace(hour=BACK.hour // 6 * 6, minute=0, second=0, microsecond=0)
-    out = []
-    while t < NOW + dt.timedelta(days=7):
-        out.append((t, t + step, entry["title"], entry.get("desc", "")))
-        t += step
-    return out
-
-
 def fmt(t):
     return t.strftime("%Y%m%d%H%M%S +0000")
 
@@ -155,7 +139,6 @@ def main():
     wanted = {CONFIG["primary"]: set(channels)}
     for tvg, (src, sid) in fallback.items():
         wanted.setdefault(src, set()).add(sid)
-    loops = CONFIG.get("loops", {})
     for donors in desc_from.values():
         wanted[CONFIG["primary"]].update(donors)
 
@@ -181,8 +164,6 @@ def main():
         if tvg in desc_from:
             donors = [guides[CONFIG["primary"]][d] for d in desc_from[tvg]]
             best = {**best, "programmes": borrow_descs(best["programmes"], donors)}
-        if not best["programmes"] and tvg in loops:
-            best, label = {"icon": "", "programmes": loop_programmes(loops[tvg])}, "loop"
         if best["programmes"]:
             chosen[tvg] = best
         report.append((channels[tvg]["name"], label, *coverage(best["programmes"])))

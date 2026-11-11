@@ -56,8 +56,6 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:0 tvg-id="2473" group-title="Новостные" tvg-logo="http://epg.one/img/2473.png",Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:0 group-title="Новостные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/osn-ru.png",ОСН
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-fakty" group-title="Новостные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100fakty-ru.png",Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-klassika" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100klassika-ru.png",Смотрим 100% Классика
@@ -68,8 +66,6 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:0 tvg-id="2417" group-title="Познавательные" tvg-logo="http://epg.one/img/2417.png",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:0 tvg-id="elab-rentv-istoki" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/istoki-ru.png",Истоки
-https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:0 tvg-id="5600" group-title="Познавательные" tvg-logo="http://epg.one/img/5600.png",Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-lubov" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100lyubov-ru.png",Смотрим 100% Любовь
@@ -78,24 +74,8 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-prazdnik" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100prazdnik-ru.png",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:0 tvg-id="elab-ntv-nevskiy" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/nevskiy-ru.jpg",Невский
-https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
-#EXTINF:0 tvg-id="elab-ntv-perviy-otdel" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/perviyotdel-ru.jpg",Первый отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:0 tvg-id="elab-ntv-skoraya" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/skorayapomoshch-ru.jpg",Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:0 tvg-id="1322" group-title="Кино" tvg-logo="http://epg.one/img/1322.png",СТС Love
 http://dmi3y-tv.online/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF:0 group-title="Кино",Всё ТВ
-http://dmi3y-tv.online/hls/zabava/CH_VSETVHD.m3u8
-#EXTINF:0 tvg-id="elab-ntv-balabol" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/balabol-ru.jpg",Балабол
-https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:0 tvg-id="elab-ntv-shef" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/shef-ru.jpg",Шеф
-https://cdn-dvr.ntv.ru/Shef/index.m3u8
-#EXTINF:0 tvg-id="elab-ntv-pes" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/pes-ru.jpg",Пёс
-https://cdn-dvr.ntv.ru/Pes/index.m3u8
-#EXTINF:0 tvg-id="elab-ntv-5minut" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/5minuttishiny-ru.jpg",5 минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:0 tvg-id="elab-maydan" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/maidan-ru.png",Майдан
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="1598" group-title="Развлекательные" tvg-logo="http://epg.one/img/1598.png",Че!
