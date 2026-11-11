@@ -11,6 +11,10 @@
       "iptvx",
       "rossia-24"
     ],
+    "elab-5kanal-ru": [
+      "iptvx",
+      "5kanal-ru"
+    ],
     "elab-maydan": [
       "iptvx",
       "maydan"
@@ -22,6 +26,10 @@
     "elab-prosveschenie": [
       "iptvx",
       "prosveschenie"
+    ],
+    "elab-rentv": [
+      "iptvx",
+      "rentv"
     ],
     "elab-smotrim-100-detskoe": [
       "iptvx",
@@ -47,6 +55,10 @@
       "iptvx",
       "smotrim-100-prazdnik"
     ],
+    "elab-solnce": [
+      "iptvx",
+      "solnce"
+    ],
     "elab-tnv": [
       "iptvx",
       "tnv"
@@ -54,6 +66,10 @@
     "elab-tri-angela": [
       "iptvx",
       "tri-angela"
+    ],
+    "elab-tv3-ru": [
+      "iptvx",
+      "tv3-ru"
     ]
   },
   "descriptions": {}

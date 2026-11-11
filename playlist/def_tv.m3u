@@ -1,19 +1,43 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/shakh7735/elabhub-public/epg/epg.xml.gz"
 #PLAYLIST:ElabHub — открытые телеканалы
-#EXTINF:0 tvg-id="711" group-title="Общие" tvg-logo="http://epg.one/img/711.png",Россия 1
-https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0 tvg-id="162" group-title="Общие" tvg-logo="http://epg.one/img/162.png",НТВ
-https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:0 tvg-id="649" group-title="Общие" tvg-logo="http://epg.one/img/649.png",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:0 tvg-id="726" group-title="Общие" tvg-logo="http://epg.one/img/726.png",Мир
+#EXTINF:0 tvg-id="146" group-title="Эфирные" tvg-logo="http://epg.one/img/146.png",Первый канал
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:0 tvg-id="711" group-title="Эфирные" tvg-logo="http://epg.one/img/711.png",Россия 1
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:0 tvg-id="162" group-title="Эфирные" tvg-logo="http://epg.one/img/162.png",НТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:0 tvg-id="elab-5kanal-ru" group-title="Эфирные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/5kanal-ru.png",Пятый канал
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:0 tvg-id="187" group-title="Эфирные" tvg-logo="http://epg.one/img/187.png",Россия К
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:0 tvg-id="1683" group-title="Эфирные" tvg-logo="http://epg.one/img/1683.png",Россия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:0 tvg-id="740" group-title="Эфирные" tvg-logo="http://epg.one/img/740.png",Карусель
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:0 tvg-id="1000" group-title="Эфирные" tvg-logo="http://epg.one/img/1000.png",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:0 tvg-id="649" group-title="Эфирные" tvg-logo="http://epg.one/img/649.png",ТВ Центр
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:0 tvg-id="elab-rentv" group-title="Эфирные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/rentv.png",РЕН ТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:0 tvg-id="2141" group-title="Эфирные" tvg-logo="http://epg.one/img/2141.png",Спас
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:0 tvg-id="79" group-title="Эфирные" tvg-logo="http://epg.one/img/79.png",СТС
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:0 tvg-id="304" group-title="Эфирные" tvg-logo="http://epg.one/img/304.png",Домашний
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:0 tvg-id="elab-tv3-ru" group-title="Эфирные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/tv3-ru.png",ТВ-3
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:0 tvg-id="1003" group-title="Эфирные" tvg-logo="http://epg.one/img/1003.png",Пятница!
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:0 tvg-id="405" group-title="Эфирные" tvg-logo="http://epg.one/img/405.png",Звезда
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:0 tvg-id="726" group-title="Эфирные" tvg-logo="http://epg.one/img/726.png",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0 tvg-id="334" group-title="Общие" tvg-logo="http://epg.one/img/334.png",Москва 24
-https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
-#EXTINF:0 tvg-id="690" group-title="Общие" tvg-logo="http://epg.one/img/690.png",Санкт-Петербург
-https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:0 tvg-id="1683" group-title="Новостные" tvg-logo="http://epg.one/img/1683.png",Россия 24
-https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:0 tvg-id="353" group-title="Эфирные" tvg-logo="http://epg.one/img/353.png",ТНТ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:0 tvg-id="897" group-title="Эфирные" tvg-logo="http://epg.one/img/897.png",Муз-ТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:0 tvg-id="2078" group-title="Новостные" tvg-logo="http://epg.one/img/2078.png",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 tvg-id="2271" group-title="Новостные" tvg-logo="http://epg.one/img/2271.png",Известия
@@ -30,8 +54,18 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-fakty" group-title="Новостные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100fakty-ru.png",Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:0 tvg-id="187" group-title="Познавательные" tvg-logo="http://epg.one/img/187.png",Россия К
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0 tvg-id="334" group-title="Общие" tvg-logo="http://epg.one/img/334.png",Москва 24
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+#EXTINF:0 tvg-id="690" group-title="Общие" tvg-logo="http://epg.one/img/690.png",Санкт-Петербург
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+#EXTINF:0 tvg-id="2448" group-title="Общие" tvg-logo="http://epg.one/img/2448.png",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:0 tvg-id="1732" group-title="Общие" tvg-logo="http://epg.one/img/1732.png",Надежда
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:0 tvg-id="elab-tri-angela" group-title="Общие" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/3abnrussia-ru.png",Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:0 tvg-id="elab-tnv" group-title="Общие" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/tnvtatarstan-ru.png",ТНВ
+https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-klassika" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100klassika-ru.png",Смотрим 100% Классика
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:0 tvg-id="elab-prosveschenie" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/prosveshchenie-ru.png",Просвещение
@@ -44,12 +78,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:0 tvg-id="5600" group-title="Познавательные" tvg-logo="http://epg.one/img/5600.png",Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:0 tvg-id="740" group-title="Детские" tvg-logo="http://epg.one/img/740.png",Карусель
-https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:0 tvg-id="elab-smotrim-100-detskoe" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100detskoe-ru.png",Смотрим 100% Детское
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:0 tvg-id="5816" group-title="Детские" tvg-logo="http://epg.one/img/5816.png",Аист ТВ
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-lubov" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100lyubov-ru.png",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-muzhskoe" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100muzhskoe-ru.png",Смотрим 100% Мужское
@@ -62,6 +90,10 @@ https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/skorayapomoshch-ru.jpg",Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+#EXTINF:0 tvg-id="1322" group-title="Кино" tvg-logo="http://epg.one/img/1322.png",СТС Love
+http://dmi3y-tv.online/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:0 group-title="Кино",Всё ТВ
+http://dmi3y-tv.online/hls/zabava/CH_VSETVHD.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/balabol-ru.jpg",Балабол
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/shef-ru.jpg",Шеф
@@ -74,20 +106,26 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="2308" group-title="Развлекательные" tvg-logo="http://epg.one/img/2308.png",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:0 tvg-id="2413" group-title="Музыка" tvg-logo="http://epg.one/img/2413.png",Муз Союз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:0 tvg-id="2448" group-title="Общие" tvg-logo="http://epg.one/img/2448.png",Союз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:0 tvg-id="2141" group-title="Общие" tvg-logo="http://epg.one/img/2141.png",Спас
-https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:0 tvg-id="1732" group-title="Общие" tvg-logo="http://epg.one/img/1732.png",Надежда
-https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0 tvg-id="elab-tri-angela" group-title="Общие" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/3abnrussia-ru.png",Три Ангела
-https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:0 tvg-id="elab-tnv" group-title="Общие" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/tnvtatarstan-ru.png",ТНВ
-https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:0 tvg-id="1598" group-title="Развлекательные" tvg-logo="http://epg.one/img/1598.png",Че!
+http://dmi3y-tv.online/hls/zabava/CH_CHE.m3u8
+#EXTINF:0 tvg-id="898" group-title="Развлекательные" tvg-logo="http://epg.one/img/898.png",Ю
+http://dmi3y-tv.online/hls/zabava/CH_U.m3u8
+#EXTINF:0 tvg-id="2288" group-title="Развлекательные" tvg-logo="http://epg.one/img/2288.png",Суббота!
+http://dmi3y-tv.online/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:0 tvg-id="1649" group-title="Развлекательные" tvg-logo="http://epg.one/img/1649.png",ТНТ4
+http://dmi3y-tv.online/hls/zabava/CH_TNT4.m3u8
+#EXTINF:0 tvg-id="323" group-title="Развлекательные" tvg-logo="http://epg.one/img/323.png",2х2
+http://dmi3y-tv.online/hls/zabava/CH_2X2.m3u8
+#EXTINF:0 tvg-id="elab-smotrim-100-detskoe" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100detskoe-ru.png",Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:0 tvg-id="5816" group-title="Детские" tvg-logo="http://epg.one/img/5816.png",Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="9327" group-title="Детские" tvg-logo="http://epg.one/img/9327.png",Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:0 tvg-id="elab-solnce" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/solnce.png",Солнце
+http://dmi3y-tv.online/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:0 tvg-id="2413" group-title="Музыка" tvg-logo="http://epg.one/img/2413.png",Муз Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:0 tvg-id="2168" group-title="Регионы" tvg-logo="http://epg.one/img/2168.png",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:0 group-title="Регионы" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/guberniasamara-ru.png",Губерния
