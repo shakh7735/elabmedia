@@ -1,0 +1,60 @@
+{
+  "_comment": "Источники гида публичного ElabHub. primary — основной, его id совпадают с tvg-id плейлиста. fallback — откуда брать программу каналу, которого нет в основном гиде или она кончилась: ключ — tvg-id в плейлисте, значение — [источник, id канала в нём]. Сопоставлены по названиям (html-viewer: audit/ids.py).",
+  "sources": {
+    "epgone": "http://epg.one/epg.xml.gz",
+    "iptvx": "https://iptvx.one/epg/epg_lite.xml.gz",
+    "antifriz": "https://antifriz.tv/storage/epg/xmltv.xml.gz"
+  },
+  "primary": "epgone",
+  "fallback": {
+    "1683": [
+      "iptvx",
+      "rossia-24"
+    ],
+    "elab-maydan": [
+      "iptvx",
+      "maydan"
+    ],
+    "elab-ministerstvo-idey": [
+      "iptvx",
+      "ministerstvo-idey"
+    ],
+    "elab-prosveschenie": [
+      "iptvx",
+      "prosveschenie"
+    ],
+    "elab-smotrim-100-detskoe": [
+      "iptvx",
+      "smotrim-100-detskoe"
+    ],
+    "elab-smotrim-100-fakty": [
+      "iptvx",
+      "smotrim-100-fakty"
+    ],
+    "elab-smotrim-100-klassika": [
+      "iptvx",
+      "smotrim-100-klassika"
+    ],
+    "elab-smotrim-100-lubov": [
+      "iptvx",
+      "smotrim-100-lubov"
+    ],
+    "elab-smotrim-100-muzhskoe": [
+      "iptvx",
+      "smotrim-100-muzhskoe"
+    ],
+    "elab-smotrim-100-prazdnik": [
+      "iptvx",
+      "smotrim-100-prazdnik"
+    ],
+    "elab-tnv": [
+      "iptvx",
+      "tnv"
+    ],
+    "elab-tri-angela": [
+      "iptvx",
+      "tri-angela"
+    ]
+  },
+  "descriptions": {}
+}
