@@ -38,6 +38,12 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:0 tvg-id="897" group-title="Эфирные" tvg-logo="http://epg.one/img/897.png",Муз-ТВ
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:0 tvg-id="2448" group-title="Эфирные" tvg-logo="http://epg.one/img/2448.png",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:0 tvg-id="1732" group-title="Эфирные" tvg-logo="http://epg.one/img/1732.png",Надежда
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:0 tvg-id="elab-tri-angela" group-title="Эфирные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/3abnrussia-ru.png",Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:0 tvg-id="2078" group-title="Новостные" tvg-logo="http://epg.one/img/2078.png",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 tvg-id="2271" group-title="Новостные" tvg-logo="http://epg.one/img/2271.png",Известия
@@ -54,12 +60,6 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-fakty" group-title="Новостные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100fakty-ru.png",Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:0 tvg-id="2448" group-title="Эфирные" tvg-logo="http://epg.one/img/2448.png",Союз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:0 tvg-id="1732" group-title="Эфирные" tvg-logo="http://epg.one/img/1732.png",Надежда
-https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0 tvg-id="elab-tri-angela" group-title="Эфирные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/3abnrussia-ru.png",Три Ангела
-https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:0 tvg-id="elab-smotrim-100-klassika" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/smotrim100klassika-ru.png",Смотрим 100% Классика
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:0 tvg-id="elab-prosveschenie" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/shakh7735/elabhub-public/main/logos/prosveshchenie-ru.png",Просвещение
