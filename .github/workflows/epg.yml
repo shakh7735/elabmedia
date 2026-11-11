@@ -1,7 +1,7 @@
 # Свой гид программы передач: каждые 6 часов собирает XMLTV только по каналам плейлиста
 # (epg.one + запасные источники, см. epg/sources.json и tools/build_epg.py) и выкладывает его в
 # ветку epg. Ветка перезаписывается целиком — история репозитория от гида не растёт.
-# Ссылка для плейлиста: https://raw.githubusercontent.com/shakh7735/elabhub-public/epg/epg.xml.gz
+# Ссылка для плейлиста: https://raw.githubusercontent.com/shakh7735/elabmedia/epg/epg.xml.gz
 name: EPG
 
 on:
@@ -34,10 +34,10 @@ jobs:
         run: |
           cd out
           cat > README.md <<'MD'
-          # Гид программы передач публичного ElabHub
+          # Гид программы передач публичного ElabMedia
 
           Собирается автоматически (workflow EPG в ветке main) — руками не править.
-          Ссылка: https://raw.githubusercontent.com/shakh7735/elabhub-public/epg/epg.xml.gz
+          Ссылка: https://raw.githubusercontent.com/shakh7735/elabmedia/epg/epg.xml.gz
           MD
           git init -q -b epg
           git config user.name "github-actions[bot]"
