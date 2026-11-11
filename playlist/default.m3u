@@ -96,19 +96,3 @@ https://hls-01-rusradio.hostingradio.ru/rusradio/96/playlist.m3u8
 https://stream.studio21.ru/studio2196.aacp
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/avtoradio.png",Авторадио
 https://hls-01-gpm.hostingradio.ru/avtoradio812/128/playlist.m3u8
-#EXTINF:-1 tvg-id="zenit" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/zenit.jpg",Зенит
-https://radiozenit.hostingradio.ru/radiozenit256.mp3?radiostatistica=radiozenit
-#EXTINF:-1 tvg-id="peterburg" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/peterburg.jpg",Радио Петербург
-https://radio.5-tv.ru/radio.mp3
-#EXTINF:-1 tvg-id="ermitazh" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/ermitazh.jpg",Эрмитаж
-https://hermitage.hostingradio.ru/hermitage128.mp3
-#EXTINF:-1 tvg-id="metro" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/metro.jpg",METRO
-https://stream.radiometro.ru:8443/metro.mp3
-#EXTINF:-1 tvg-id="eldoradio" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/eldoradio.jpg",Эльдорадио
-https://emgspb.hostingradio.ru/eldoradio128.mp3
-#EXTINF:-1 tvg-id="royal" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/royal.png",Royal Radio
-https://royalradio.space/986FM
-#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/volgograd-24.jpg",Волгоград 24
-http://79.170.161.42:8000/Volgograd24FM
-#EXTINF:-1 tvg-id="novaya-volna" tvg-logo="https://raw.githubusercontent.com/shakh7735/online-radio-m3u/main/logos/novaya-volna.png",Новая Волна
-https://stream.radionv.ru:4845/radio
